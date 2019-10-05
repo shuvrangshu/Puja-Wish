@@ -1,0 +1,25 @@
+{
+  "name": "puja-wish",
+  "version": "1.0.0",
+  "description": "Puja Wish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuvrangshu/Puja-Wish.git"
+  },
+  "author": "Shuvrangshu Manna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuvrangshu/Puja-Wish/issues"
+  },
+  "homepage": "https://github.com/shuvrangshu/Puja-Wish#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
